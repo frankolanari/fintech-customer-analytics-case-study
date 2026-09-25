@@ -45,6 +45,8 @@ This project analyses one quarter of SendFast transfers and signups to answer a 
 The findings are presented as a 12-slide leadership deck with speaker notes:
 [`slide-deck/Fintech Analysis Slide-deck - SendFast Case Study.pptx`](slide-deck/Fintech%20Analysis%20Slide-deck%20-%20SendFast%20Case%20Study.pptx).
 
+**[See slide deck on Google Slides →](https://docs.google.com/presentation/d/1U9ffzJOxX47NWcEcuZSwX6jG_mY5sDgUgpamPbVTeyc/edit?usp=sharing)**
+
 ## Data
 
 Both files are synthetic. They were generated for this case study and contain no real customer or company data.
