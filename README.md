@@ -43,7 +43,7 @@ This project analyses one quarter of SendFast transfers and signups to answer a 
 ## Slide deck
 
 The findings are presented as a 12-slide leadership deck with speaker notes:
-[`deck/SendFast_Q1_2024_Leadership_Review.pptx`](deck/SendFast_Q1_2024_Leadership_Review.pptx).
+[`slide-deck/Fintech Analysis Slide-deck - SendFast Case Study.pptx`](slide-deck/Fintech%20Analysis%20Slide-deck%20-%20SendFast%20Case%20Study.pptx).
 
 ## Data
 
@@ -79,8 +79,8 @@ The notebook loads both CSVs into an in-memory SQLite database and answers each 
 fintech-customer-analytics-case-study/
 ├── notebooks/
 │   └── SendFast_Analysis.ipynb   # Full analysis, written as a narrative
-├── deck/
-│   └── SendFast_Q1_2024_Leadership_Review.pptx   # Leadership presentation
+├── slide-deck/
+│   └── Fintech Analysis Slide-deck - SendFast Case Study.pptx   # Leadership presentation
 ├── data/
 │   ├── transactions.csv
 │   └── users.csv
