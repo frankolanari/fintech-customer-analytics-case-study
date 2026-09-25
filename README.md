@@ -39,6 +39,11 @@ This project analyses one quarter of SendFast transfers and signups to answer a 
 2. **Use referrals to drive KYC.** Pay the referral reward once the invitee passes KYC and makes a first transfer, and test the change to confirm that referral causes the lift.
 3. **Protect NGN→CAD tuition payments.** Run targeted lifecycle campaigns for school-related senders, and look after the top 10% of customers, who send 51% of all value.
 
+## Slide deck
+
+The findings are presented as a 12-slide leadership deck with speaker notes:
+[`deck/SendFast_Q1_2024_Leadership_Review.pptx`](deck/SendFast_Q1_2024_Leadership_Review.pptx).
+
 ## Data
 
 | File | Rows | Description |
@@ -71,6 +76,8 @@ The notebook loads both CSVs into an in-memory SQLite database and answers each 
 sendfast-analysis/
 ├── notebooks/
 │   └── SendFast_Analysis.ipynb   # Full analysis, written as a narrative
+├── deck/
+│   └── SendFast_Q1_2024_Leadership_Review.pptx   # Leadership presentation
 ├── data/
 │   ├── transactions.csv
 │   └── users.csv
