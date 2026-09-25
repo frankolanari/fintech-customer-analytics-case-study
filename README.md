@@ -10,7 +10,8 @@ This project analyses one quarter of SendFast transfers and signups to answer a 
 
 > **How healthy is the business, and where should we focus next?**
 
-*SendFast is a fictional company created for this case study.*
+> [!IMPORTANT]
+> **Disclaimer: all data in this project is synthetic.** SendFast is a fictional company, and every user, transfer and figure in this repository was artificially generated for this case study. None of it comes from any real company, customer or transaction.
 
 ---
 
@@ -45,6 +46,8 @@ The findings are presented as a 12-slide leadership deck with speaker notes:
 [`deck/SendFast_Q1_2024_Leadership_Review.pptx`](deck/SendFast_Q1_2024_Leadership_Review.pptx).
 
 ## Data
+
+Both files are synthetic. They were generated for this case study and contain no real customer or company data.
 
 | File | Rows | Description |
 |---|---|---|
