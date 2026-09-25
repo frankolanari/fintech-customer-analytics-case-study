@@ -51,8 +51,8 @@ Both files are synthetic. They were generated for this case study and contain no
 
 | File | Rows | Description |
 |---|---|---|
-| `data/transactions.csv` | 164,882 | Every transfer from 31 Dec 2023 to 31 Mar 2024: amounts, currencies, exchange rate, purpose and CAD value (`BaseAmount`). |
-| `data/users.csv` | 21,906 | A slice of users who signed up from 1 Dec 2023 to 31 Mar 2024: signup date, country, KYC status, profile completion and referral code. |
+| [`data/transactions.csv`](data/transactions.csv) | 164,882 | Every transfer from 31 Dec 2023 to 31 Mar 2024: amounts, currencies, exchange rate, purpose and CAD value (`BaseAmount`). |
+| [`data/users.csv`](data/users.csv) | 21,906 | A slice of users who signed up from 1 Dec 2023 to 31 Mar 2024: signup date, country, KYC status, profile completion and referral code. |
 
 **How to read the results:**
 - **Two different populations.** The users table is a slice of new signups, while the transactions table covers every customer who sent money. Base health, retention and corridor results cover all customers. Funnel and referral results cover new signups only.
