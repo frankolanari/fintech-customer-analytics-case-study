@@ -76,7 +76,7 @@ The notebook loads both CSVs into an in-memory SQLite database and answers each 
 ## Repository structure
 
 ```
-sendfast-analysis/
+fintech-customer-analytics-case-study/
 ├── notebooks/
 │   └── SendFast_Analysis.ipynb   # Full analysis, written as a narrative
 ├── deck/
@@ -93,8 +93,8 @@ sendfast-analysis/
 ## Running the analysis
 
 ```bash
-git clone <this-repo-url>
-cd sendfast-analysis
+git clone https://github.com/frankolanari/fintech-customer-analytics-case-study.git
+cd fintech-customer-analytics-case-study
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 jupyter notebook notebooks/SendFast_Analysis.ipynb
