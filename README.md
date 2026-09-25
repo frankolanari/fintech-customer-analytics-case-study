@@ -79,6 +79,9 @@ The notebook loads both CSVs into an in-memory SQLite database and answers each 
 fintech-customer-analytics-case-study/
 ├── notebooks/
 │   └── SendFast_Analysis.ipynb   # Full analysis, written as a narrative
+├── raw-code/
+│   ├── sendfast_analysis.py      # Python code from the notebook
+│   └── sendfast_queries.sql      # SQL queries from the notebook
 ├── slide-deck/
 │   └── Fintech Analysis Slide-deck - SendFast Case Study.pptx   # Leadership presentation
 ├── data/
